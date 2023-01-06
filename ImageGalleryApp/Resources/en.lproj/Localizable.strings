@@ -1,0 +1,18 @@
+
+//MARK: - Common
+"common.done" = "Done";
+"common.ok" = "Ok";
+"common.warning" = "Warning";
+"common.something.went.wrong" = "Something went wrong";
+
+//MARK: - Image List
+"image_list.navigation.title" = "All Images";
+"image_list.tabbar.title" = "All";
+
+//MARK: - Image Favourite
+"image_favourite.navigation.title" = "Favourite Images";
+"image_favourite.tabbar.title" = "Favourite";
+
+//MARK: - Image Detail
+"image_detail.navigation.title" = "Details Page";
+"image_detail.resolution" = "Resolution";
